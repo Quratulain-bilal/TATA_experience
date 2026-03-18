@@ -192,4 +192,4 @@ Tata iQ Data Analytics Virtual Experience Program — March 2026
 
 ---
 
-*This project was developed with assistance from Claude Code (GenAI) for data analysis, predictive modeling, report generation, and presentation design.*
+
